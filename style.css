@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.time{
+    margin: 25px;
+    padding: 2px;
+    text-align: center;
+    font-size: 1cm;
+    background-color: greenyellow;
+}
+.date{
+    margin: 25px;
+    padding: 2px;
+    text-align: center;
+    font-size: 1cm;
+    background-color: greenyellow;
+}
+.clock{
+    width: 400px;
+    height: 175px;
+    margin: 200px 450px; 
+    padding: 5px;
+}
